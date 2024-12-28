@@ -1,1 +1,1 @@
-print("END OF THE DAY")
+print("END OF THE DAY....")
